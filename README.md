@@ -1,4 +1,4 @@
-# Machine Learning Project Course  
+#Deep Learning
 
 ## Course Objectives  
 
